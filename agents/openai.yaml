@@ -1,0 +1,6 @@
+interface:
+  display_name: "麻酱·照片小人剧场"
+  short_description: "保留真实主体，让稚拙黑线故事延展进纯白留白，配有意味的短句与朴拙手写字"
+  default_prompt: "使用 $majiang-photo-story，先克制修整真实主体，再设计延展到外部留白的黑线小剧场与贴切短句；默认 2–6 位稀疏小人，先验收无字底图，再处理朴拙中文标题。"
+policy:
+  allow_implicit_invocation: true
